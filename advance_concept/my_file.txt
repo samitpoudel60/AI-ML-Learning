@@ -1,0 +1,7 @@
+In operator overloading, other represents the second object passed during the operation
+allowing access to its attributes like other.x and other.y.
+If you want, I can also explain:
+Scalar multiplication (v1 * 3)
+Why we should check isinstance(other, Vector)
+How Python chooses which magic method to call
+
