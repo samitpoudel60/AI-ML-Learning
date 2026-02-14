@@ -1,0 +1,12 @@
+2026-01-21 18:08:01 - arithmic_app - DEBUG - Adding operation is taking place for 10 and 5
+2026-01-21 18:08:01 - arithmic_app - DEBUG - Subtracting operation is taking place for 10 and 5
+2026-01-21 18:08:01 - arithmic_app - DEBUG - Multiplying operation is taking place for 10 and 5
+2026-01-21 18:08:01 - arithmic_app - DEBUG - Dividing operation is taking place for 10 and 0
+2026-01-21 18:08:01 - arithmic_app - ERROR - Division by zero is not allowed.
+2026-01-21 18:08:01 - arithmic_app - DEBUG - Dividing operation is taking place for 10 and 2
+2026-01-21 18:08:14 - arithmic_app - DEBUG - Adding operation is taking place for 10 and 5
+2026-01-21 18:08:14 - arithmic_app - DEBUG - Subtracting operation is taking place for 10 and 5
+2026-01-21 18:08:14 - arithmic_app - DEBUG - Multiplying operation is taking place for 10 and 5
+2026-01-21 18:08:14 - arithmic_app - DEBUG - Dividing operation is taking place for 10 and 0
+2026-01-21 18:08:14 - arithmic_app - ERROR - Division by zero is not allowed.
+2026-01-21 18:08:14 - arithmic_app - DEBUG - Dividing operation is taking place for 10 and 2
